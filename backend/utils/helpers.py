@@ -1,0 +1,1 @@
+# You can add any helper functions here that you may need across your application.
