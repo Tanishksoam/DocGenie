@@ -1,5 +1,5 @@
 import { useState } from "react";
-import UploadForm from "@/components/UploadForm";
+import UploadForm from "components/UploadForm";
 
 const UploadPage = () => {
   const [result, setResult] = useState<any>(null);
